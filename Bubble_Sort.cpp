@@ -60,5 +60,5 @@ void display(){
 
 int main(){
     input();
-   
+    bubbleSortArray();
 }
